@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Steve.
-- 👀 I’m interested in using ML to change the world.
+- 👀 I am using ML to change the world.
